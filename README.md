@@ -15,7 +15,7 @@ Aşağıda yer alan örnek kodlar ile baun obs üzerinden not sayfanızın veril
   
 ## .ENV Değerlerine nasıl ulaşabilirim.
 
-OBS Ana sayfasına giriş yaptıktan sonra F12 ile tarayıcı developer consoleyi aktif edin işaretlenen network kısmına gelin. All seçeneğinin işaretli olduğundan emin olun. Sol tarafta yer alan istekler kısmında işaretlenen isteği bulun. Headers kısmında gerekli olan tüm kaynaklara sahip olacaksınız.
+OBS Ana sayfasına giriş yaptıktan sonra F12 ile tarayıcı developer consoleyi aktif edin işaretlenen network kısmına gelin. All seçeneğinin işaretli olduğundan emin olun. Ardından Not listesi sayfasını ziyaret etin, Sol tarafta yer alan istekler kısmında işaretlenen isteği bulun. Headers kısmında gerekli olan tüm kaynaklara sahip olacaksınız.
 
   
 
